@@ -48,7 +48,7 @@ GEM
       power_assert
     timecop (0.9.4)
     unicode-display_width (2.0.0)
-    yard (0.9.26)
+    yard (0.9.35)
 
 PLATFORMS
   ruby
@@ -62,7 +62,7 @@ DEPENDENCIES
   simplecov (= 0.17.1, < 0.18)
   test-unit (= 3.4.0)
   timecop (= 0.9.4)
-  yard (= 0.9.26)
+  yard (= 0.9.35)
 
 BUNDLED WITH
    2.1.2
